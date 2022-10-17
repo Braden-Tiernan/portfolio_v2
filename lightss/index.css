@@ -303,6 +303,7 @@ h1 {
 
 .s1s1s4s1 {
   position:absolute;left:calc(100% + 68px);top:0px;width:300px;border-radius:5px;border:2px solid var(--lightestnavy);box-shadow:20px 20px 0px var(--lightnavy);
+  border-radius: 20px;
 }
 @media all and (max-width: 1000px) {
   .s1s1s4s1 {
@@ -362,7 +363,7 @@ h1 {
 }
 
 .s1s2s2 {
-  width:calc(100% - 10px);min-height:20px;border-radius:5px;background-color:var(--lightnavy);margin:20px 0px;
+  width:calc(100% - 10px);min-height:20px;border-radius:20px;background-color:var(--lightnavy);margin:20px 0px;
   box-shadow: 10px 10px 0px var(--lightestnavy);
   padding-bottom:calc(1.5rem + 30px);
 }
